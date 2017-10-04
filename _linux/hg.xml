@@ -2,6 +2,8 @@
   <component name="HgGlobalSettings">
     <option name="myRememberedUserNames">
       <map>
+        <entry key="hg.ident.com/Ident/common/Main/" value="ushsi\tim.hecht" />
+        <entry key="hg.ident.com/Ident/dentrixIdentCom/Main/" value="ushsi\tim.hecht" />
         <entry key="hg.ident.com/eServices/eTrans/ClaimSubmissionService" value="ushsi\tim.hecht" />
         <entry key="hg.ident.com/eServices/eTrans/SubmitServlet" value="ushsi\tim.hecht" />
       </map>
