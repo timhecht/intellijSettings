@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonareservices.ident.com" />
+          <token>df9bdfcbdf9ddf9adfccdfcfdf9ddf9adf9adfcfdf9ddf98dfcfdf9fdfcedf92dfcedf98df9cdf98df93df9bdf9edf9edf9ddf99df9adfcfdfc8df9bdf9adf9ddfccdf9fdf93dfc9df9edfcedfcedf9a</token>
+          <option name="name" value="Sonar eServices" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
