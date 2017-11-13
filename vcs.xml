@@ -45,6 +45,10 @@
           <option name="url" value="http://hg.ident.com/Ident/services2/Main/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://hg.ident.com/eServices/Tools/metricsAPI/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/src" />
